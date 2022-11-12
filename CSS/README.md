@@ -3,4 +3,8 @@
 
 
 ## Ödev-1
-* ![Anasayfa](odev1-anasayfa.jpg "Ödev-1 Anasayfa")
+![Anasayfa](odev1-anasayfa.jpg "Ödev-1 Anasayfa")
+
+![Ürünlerimiz](odev1-urunlerimiz.jpg "Ödev-1 Ürünlerimiz")
+
+![Hakkımızda](odev1-hakkimizda.jpg "Ödev-1 Hakkımızda")
