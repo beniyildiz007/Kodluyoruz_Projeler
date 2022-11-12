@@ -3,4 +3,4 @@
 
 
 ## Ödev-1
-* ![Anasayfa](odev1-screenshot.jpg "Ödev-1 Anasayfa")
+* ![Anasayfa](odev1-anasayfa.jpg "Ödev-1 Anasayfa")
