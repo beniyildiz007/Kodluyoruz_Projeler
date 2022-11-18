@@ -51,6 +51,9 @@
     
 </body>
 </html>
+
+## style.css
+
 ```css
 #cerceve{
     text-align: center; /*En dış çerçeveyi ortaladık*/
