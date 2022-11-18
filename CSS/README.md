@@ -36,4 +36,4 @@ Google 1996 yılında kuruldu ve ilk versiyonunu 1998 yılında yayınladı. 199
 * Tasarladığınız bölümler ile alakalı kodunuzda açıklama satırlarına yer veriniz.
 * Sayfa ile alakalı detaylara sayfanın üzerine sağ tıklayıp "İncele/Inspect" diyerek ulaşabilirsiniz.
 
-![Google 1998](Odev-2/odev2-google1998.jpeg "Ödev-1 Anasayfa")
+![Google 1998](Odev-2/odev2-google1998.jpg "Ödev-2 Google 1998")
