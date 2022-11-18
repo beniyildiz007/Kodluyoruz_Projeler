@@ -1,0 +1,32 @@
+#cerceve{
+    text-align: center;
+}
+img{
+    margin-bottom: 1px;
+}
+#search{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+#arama{
+    background-color: rgb(206, 206, 206);
+    width: 100%;
+    margin-bottom: 1px;
+}
+#altcerceve{
+    margin: 1px;
+    width: 100%;
+}
+#left{
+    background-color: #7EE5DA;
+    padding: 7px;
+    width: 37%;
+}
+#center{
+    background-color: #70CCC2;
+    padding: 7px;
+}
+#right{
+    background-color: #62B3AA;
+    padding: 7px;
+}
